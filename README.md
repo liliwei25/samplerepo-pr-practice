@@ -1,2 +1,2 @@
 # [Sample Repo] PR Practice
-A sample repo for practicing how to create Pull Requests MASTER (FIX1)
+A sample repo for practicing
